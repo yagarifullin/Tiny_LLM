@@ -80,7 +80,7 @@
 | **PyTorch** | 2.13.0+rocm10.0.0 | Собран против ROCm 10 |
 | **ROCm** | 10.0.0 | Для gfx1200/gfx1201 (RDNA4) |
 | **Python** | 3.11–3.14 | Для PyTorch |
-| **GPU** | AMD RDNA4 (RX 9060 XT, RX 9070) или NVIDIA | 16+ ГБ VRAM рекомендуется |
+| **GPU** | AMD RDNA4 (RX 9060 XT, RX 9070) | 16+ ГБ VRAM рекомендуется |
 | **Disk** | NVMe SSD | Обязательно для корпусов >10 ГБ |
 | **RAM** | 16+ ГБ | Для 100M модели |
 
